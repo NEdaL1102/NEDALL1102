@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-id="" tvg-name="NEdaL JB" tvg-logo="" group-title="JB",NEdaL JB
+https://www.youtube.com/channel/UCLM-tiFqq2mnO1LIFHryWEQ
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein:Movies action" tvg-logo="" group-title="beIN ترفيهيه",Bein:Movies action
 http://178.63.48.23:25461/osnott/V2zmtRzt71/274
